@@ -1,0 +1,29 @@
+{
+  "full_name": "ООО «Зигма клиник»",
+  "UNP": "193606618",
+  "address": "220089, г. Минск, пр-т Дзержинского 15-879",
+  "phones": ["+375 29 640-03-03"],
+  "emails": ["zigmadent@gmail.com"],
+  "years_in_business": 10,
+  "website": "https://zigma.by",
+  "specialization": "Стоматологическая клиника",
+  "services": [
+    "Терапевтическая стоматология",
+    "Хирургическая стоматология", 
+    "Ортопедия",
+    "Имплантация",
+    "Отбеливание зубов",
+    "Профессиональная гигиена"
+  ],
+  "verified_sources": [
+    "https://zigma.by/",
+    "https://kartoteka.by/unp-193606618",
+    "https://yandex.by/maps/org/zigma/146604389627/",
+    "https://2gis.by/minsk/firm/70000001094255426"
+  ],
+  "legal_info": {
+    "license": "Лицензия Министерства здравоохранения Республики Беларусь",
+    "registration_date": "2014",
+    "activity_code": "86230 - Стоматологическая деятельность"
+  }
+}
